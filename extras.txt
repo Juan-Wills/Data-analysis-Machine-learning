@@ -1,0 +1,4 @@
+MATERIAL
+Wes Mckinney Github repo: https://github.com/wesm/pydata-book
+
+
