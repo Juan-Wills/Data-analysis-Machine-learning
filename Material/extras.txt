@@ -1,0 +1,17 @@
+MATERIAL
+    Github repo: https://github.com/wesm/pydata-book
+    Gitee repo: https://gitee.com/wesmckinn/pydata-book
+    FAQ and updates: https://wesmckinney.com/book 
+
+COMUNITY
+    Pydata: google group list for questions related to python for data anaysis and pandas
+    Pystatsmodels: for statsmodels or pandas-related questions
+    Numpy-descussion: for Numpy-related questions
+    Scipy-user: for general SciPy or scientific python questions
+    Mailing to scikit-learn@python.org for scikit-learn and machine learning in python
+
+CONFERENCES
+    PyCon and EuroPython: Main general python conferences in North America and Europe
+    SciPy and EuroSciPy: Scientific-computing-oriented conferences in North America and Europe
+    PyData: Worldwide series of regional conferences targeted at data science and data analysis use cases
+    International and regional PyCon conferences videos

@@ -11,15 +11,18 @@ Some tools numpy provide:
     6. C API for connecting Numpy with libraries written in C,
        C++, or FORTRAN
 
-Applications in data analysis:
-   1.
-   2.
-   3.
-   4.
-   5.
+Data analysis applications:
+   1. Fast data munging and cleaning, subsetting and filtering,
+      transforming, among others kind of operations  
+   2. Array algorithms like sorting, unique, and set operations
+   3. Descriptive statistics and aggregating/summarizing data
+   4. Data alignment for merging and joining heterogenous datasets
+   5. Expressing conditional logic as array expressions instead of
+      python 'for' loops
+   6. Group-wise data manipulation
 """
-
 # 4.1-Ndarray_a_Multidimentional_Array_Object
+
 # 4.2-Pseudorandom_Number_Generator
 # 4.3-Universal_Functions_Fast_Element-Wise_Array_Functions
 # 4.4-Array-Oriented_Programming_with_Arrays
